@@ -6,7 +6,7 @@ Click the `Fork` button in the top-right.
 
 ![Fork button](http://codeclub-assets.s3.amazonaws.com/public/contributing/fork.png)
 
-## Step 2 - Clone to the repository to your computer
+## Step 2 - Clone the repository to your computer
 
     cd ~/Documents
     git clone git@github.com:YOUR_NAME/scratch-curriculum.git
@@ -17,7 +17,7 @@ whatever folder on your machine you’d like to keep your work in.
 
 ## Step 3 - Create a folder for your translation
 
-Copy the 'en-GB' folder and rename it appropriately e.g. 'es'.
+Copy the 'en-GB' folder and rename it appropriately e.g. 'es-ES'.
 
     cp -r en-GB es
 
@@ -50,7 +50,7 @@ Give your pull request an appropriate message.
 ## Step 7 - Ask another native speaker to review your pull request
 
 Give another native speaker a link to your pull request, which will be
-something like http://github.com/codeclub/scratch-curriculum/pulls/3
+something like http://github.com/codeclub/scratch-curriculum/pull/3
 
 If they’re happy, they should leave a comment on the pull request with a
 :+1: or similar message.
